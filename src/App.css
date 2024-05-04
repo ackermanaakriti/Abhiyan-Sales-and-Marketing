@@ -2,10 +2,12 @@
 
 .heropage 
 {
-  background-image: url('../src/Global/images/bg2.png');
+  background-image: url('../src/Global/images/Rec.png ');
   z-index: 0;
   inset: 0;
-  clip-path: ellipse(100% 60% at 48% 44%);
+  height: 100%;
+  width: 100%;
+  background-size: contain;
   .heropageimg
   {
     .img1 

@@ -19,7 +19,7 @@ const Heropage = () => {
             </figure>
           </div>
           <div>
-            <div className='pt-[150px]'>
+            <div className='pt-[100px]'>
               <p className='font-poppins text-[20px]  text-secondarycolor'>Abhiyan Sales and Marketing</p>
               <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-secondarycolor'>Market your products
 Anywhere & Anytime</h2>
