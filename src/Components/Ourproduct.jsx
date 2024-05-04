@@ -9,7 +9,7 @@ const Ourproduct = ({image,name}) => {
   return (
    <>
    
-   <div className='px-[20px] py-[30px] bg-secondarycolor rounded-[25px] '>
+   <div className='px-[20px] py-[30px] bg-[#ebeced] rounded-[25px] '>
     <div>
         <figure className='h-[120px] flex justify-center'>
             <img className='h-full' src={image}/>
