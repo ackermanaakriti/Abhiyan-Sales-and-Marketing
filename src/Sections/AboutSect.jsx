@@ -6,7 +6,7 @@ import Button from '../Components/Button'
 const AboutSect = () => {
   return (
    <>
-   <section className='mx-auto container py-[50px]'>
+   <section className='mx-auto container pb-[50px] pt-[120px]'>
    <div className='grid grid-cols-2'>
     <div className='relative'>
     <figure className=' h-[300px] w-[450px] absolute left-[5em]   '>
