@@ -23,7 +23,9 @@ const WhyChooseUs = () => {
               </div>
             </div>
           </div>
-          <div className='rounded-[50%] mt-[60px] shadow-md mx-auto h-[300px] w-[300px] p-[30px] bg-primarycolor'>
+          <div className='flex justify-center items-center'>
+          <div className='rounded-[50%] mt-[60px] shadow-md  h-[300px] w-[300px] p-[30px] bg-primarycolor'>
+            
             <div className='flex justify-center items-center pt-[50px]'>
               <h3 className='text-secondarycolor text-poppins text-[20px]'>Why choose  us?</h3>
 
@@ -32,7 +34,7 @@ const WhyChooseUs = () => {
               <h2 className='text-secondarycolor text-center font-[600] font-kurale text-[30px]'>ABHIYAN SALES & MARKETING</h2>
             </div>
 
-
+            </div>
           </div>
           <div>
           <div className='mt-[20px] bg-[#ebeced] p-[20px] rounded-[24px]'>

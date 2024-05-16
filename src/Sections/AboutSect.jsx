@@ -16,7 +16,7 @@ const AboutSect = () => {
         <img className='h-full rounded-[24px] w-full object-cover' src={img2}/>
     </figure>
     </div>
-    <div className='bg-primarycolor px-[30px] py-[30px]  my-[20px]'>
+    <div className='bg-primarycolor px-[30px] py-[30px] rounded-[24px]  my-[20px]'>
         <h2 className='text-secondarycolor text-[50px] font-kurale font-[600]'>
           About Us
         </h2>
@@ -27,7 +27,7 @@ const AboutSect = () => {
           tailoring bespoke strategies to suit the individual needs of each client. At [Your Company Name], we're not just about delivering results; we're about building lasting partnerships that drive mutual success. Join us on the journey to elevate your sales and marketing endeavors to new heights.
         </p>
         <div className='pt-[40px]'>
-            <Button bg='secondarycolor' txtclr='primarycolor' text='Read More'/>
+            <Button bg='secondaycolor' txtclr='primarycolor' text='Read More'/>
         </div>
     </div>
 

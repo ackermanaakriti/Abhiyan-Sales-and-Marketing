@@ -4,6 +4,7 @@ import Ourproduct from '../Components/Ourproduct'
 import Ourproductsec from '../Sections/Ourproductsec'
 import AboutSect from '../Sections/AboutSect'
 import WhyChooseUs from '../Sections/WhyChooseus'
+import Footer from '../Global/Footer'
 
 const Homepage = () => {
   return (
@@ -12,6 +13,7 @@ const Homepage = () => {
 <Ourproductsec/>
 <AboutSect/>
 <WhyChooseUs/>
+
   </>
   )
 }

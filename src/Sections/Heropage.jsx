@@ -10,8 +10,8 @@ const Heropage = () => {
   return (
     <>
       <div className='heropage' >
-        <div className='grid grid-cols-2 mx-auto container'>
-          <div className='px-[30px] py-[10px]'>
+        <div className='grid grid-cols-2 mx-auto container py-[30px]'>
+          <div className='px-[30px] '>
             <figure className=' heropageimg'>
               <img className='h-[100px] img1' src={digestive} />
               <img className='h-[150px] img2' src={current} />
@@ -24,7 +24,7 @@ const Heropage = () => {
               <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-secondarycolor'>Market your products
 Anywhere & Anytime</h2>
                <div className='pt-[30px]'>
-             <Button bg='secondarycolor' text='Read More'/>
+             <Button bg='secondarycolor' textclr='primarycolor' text='Read More'/>
               </div>
               <p>
 
