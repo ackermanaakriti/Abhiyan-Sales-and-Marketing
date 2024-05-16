@@ -6,8 +6,10 @@ import Button from '../../Components/Button'
 import Ourproduct from '../../Components/Ourproduct'
 import Ourproductsec from '../../Sections/Ourproductsec'
 import OtherProducts from '../../Sections/OtherProducts'
+import { useNavigate } from 'react-router'
 
 const ProductPageSection = () => {
+    const navigate = useNavigate()
     return (
         <>
             <div className='mx-auto container py-[50px]'>
@@ -24,7 +26,7 @@ const ProductPageSection = () => {
                         <p className='font-inter text-[22px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
                             Crafted with the finest ingredients and perfected through generations of culinary expertise,
                             our noodles promise a dining experience that's nothing short of extraordinary.</p>
-                        <div className='pt-[20px]'>
+                        <div onClick={()=>navigate('/individual')} className='pt-[20px]'>
                             <Button bg='primarycolor' text='View All' txtclr='secondarycolor' />
                         </div>
                     </div>

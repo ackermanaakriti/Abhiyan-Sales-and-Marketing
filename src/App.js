@@ -5,6 +5,7 @@ import { Route, Router, Routes } from 'react-router';
 import Navbar from './Global/Navbar';
 import Productspage from './Pages/ProductPage/Productspage';
 import Footer from './Global/Footer';
+import IndividualProduct from './Pages/IndividualProduct';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
    <Routes>
     <Route path='/' element={<Homepage/>}/>
     <Route path='/products' element={<Productspage/>}/>
+    <Route path='/individual' element={<IndividualProduct/>}/>
    </Routes>
    <Footer/>
    </>

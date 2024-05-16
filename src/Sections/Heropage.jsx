@@ -1,6 +1,6 @@
 import React from 'react'
 import digestive from '../Global/images/digestive.png'
-import current from '../Global/images/Rectangle-155.png'
+import current from '../Global/images/redcurrent.png'
 import snicker from '../Global/images/Snickers-broken (1).png'
 import bg from '../Global/images/Rectangle 1.png'
 import Button from '../Components/Button'

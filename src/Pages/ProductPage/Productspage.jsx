@@ -13,7 +13,7 @@ const Productspage = () => {
    <>
    <div className='productpage '>
     <div data-aos="zoom-in "  data-aos-duration="5000" data-aos-delay="100" className='productpage--content'>
-    <h1>Our Products</h1>
+    {/* <h1>Our Products</h1> */}
     </div>
    </div>
    <div>
