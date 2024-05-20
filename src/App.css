@@ -2,15 +2,32 @@
   --poppins: 'Poppins', sans-serif; 
   --kurale: 'kurale', serif;
 }
+.navbar
+{
+  z-index: 999;
+  background: #26262569;
+  
+}
 .heropage 
 {
-  background-image: url('../src/Global/images/Rec.png ');
+  
   z-index: 0;
   inset: 0;
   height: 100%;
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
+  .left--section
+  {
+    background-image: url('../src/Global/images/bg33.png');
+   height: 80vh;
+   background-position: center;
+   
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
 
   
   .heropageimg
@@ -41,6 +58,7 @@
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
+  z-index: 0;
   .productpage--content 
 {
   align-items: center;
