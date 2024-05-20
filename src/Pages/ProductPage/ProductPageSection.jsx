@@ -12,7 +12,7 @@ const ProductPageSection = () => {
     const navigate = useNavigate()
     return (
         <>
-            <div className='mx-auto container py-[50px]'>
+            <div className='px-[40px] py-[50px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
                         <figure className='h-[380px] flex justify-center'>

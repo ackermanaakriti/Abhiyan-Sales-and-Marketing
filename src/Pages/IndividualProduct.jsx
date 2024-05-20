@@ -5,7 +5,7 @@ import recurrent from '../Global/images/redcurrent.png'
 const IndividualProduct = () => {
   return (
    <>
-   <div className='mx-auto container py-[50px]'>
+   <div className='px-[40px] py-[50px]'>
     <div className='grid grid-cols-3 py-[20px] gap-[40px]'>
     <div className=' p-[20px] flex'>
         <div>

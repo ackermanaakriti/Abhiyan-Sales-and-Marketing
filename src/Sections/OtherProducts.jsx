@@ -8,7 +8,7 @@ import OtherProduct from '../Components/OtherProduct'
 const OtherProducts = () => {
   return (
   <>
-  <section className=' mx-auto container pb-[40px]'>
+  <section className='px-[40px] pb-[40px]'>
   <div className='py-[10px]'>
   <h2 className='text-[60px] font-kurale text-center text-primarycolor'>Other Products</h2>
   </div>

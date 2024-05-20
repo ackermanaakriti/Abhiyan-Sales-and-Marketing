@@ -10,7 +10,7 @@ import { GiReceiveMoney } from "react-icons/gi";
 const WhyChooseUs = () => {
   return (
     <>
-      <section className='mx-auto container py-[50px]'>
+      <section className='px-[40px] py-[50px]'>
 
         <div className='grid grid-cols-3 gap-[15px]'>
           <div className='col-span-1 gap-y-[20px]'>

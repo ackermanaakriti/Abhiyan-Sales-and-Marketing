@@ -95,3 +95,28 @@
   z-index: 10;
 
 }
+
+.aboutus
+{
+  background-image: url('../src/Global/images/nepaligrp.jpg');
+  z-index: 0;
+  /* inset: 0; */
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  .left--section
+  {
+    background-image: url('../src/Global/images/bg33.png');
+   height: 80vh;
+   background-position: center;
+   
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+
+}

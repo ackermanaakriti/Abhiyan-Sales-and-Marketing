@@ -7,7 +7,7 @@ import img3 from '../Global/images/Group 13 (2).png'
 const Ourproductsec = () => {
   return (
   <>
-  <section className=' mx-auto container'>
+  <section className=' px-[40px]'>
   <div className='py-[20px]'>
   <h2 className='text-[50px] font-kurale text-center font-[600] text-primarycolor'>Our Products</h2>
   </div>
