@@ -12,8 +12,17 @@ const Productspage = () => {
   return (
    <>
    <div className='productpage '>
-    <div data-aos="zoom-in "  data-aos-duration="5000" data-aos-delay="100" className='productpage--content'>
-    {/* <h1>Our Products</h1> */}
+    <div className='grid grid-cols-2'>
+      <div>
+
+      </div>
+      <div className='left--section'>
+      <div className='pt-[100px] absolute top-[40%] right-[30px]'>
+              <p className='font-poppins text-[20px]  text-secondarycolor'>Abhiyan Sales and Marketing</p>
+              <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-secondarycolor'>Products We Sell</h2>
+             
+             </div>
+      </div>
     </div>
    </div>
    <div>

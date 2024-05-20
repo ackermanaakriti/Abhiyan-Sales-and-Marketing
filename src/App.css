@@ -5,7 +5,8 @@
 .navbar
 {
   z-index: 999;
-  background: #26262569;
+  background: #fff;
+  border:1px solid #eee
   
 }
 .heropage 
@@ -52,13 +53,24 @@
 .productpage
 {
   background-image: url('../src/Global/images/product.jpg');
-  height: 80vh;
- width: 100%;
-  background-size:cover;
+  z-index: 0;
+  /* inset: 0; */
+  height: 100%;
+  width: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  position: relative;
-  z-index: 0;
+  .left--section
+  {
+    background-image: url('../src/Global/images/bg33.png');
+   height: 80vh;
+   background-position: center;
+   
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
   .productpage--content 
 {
   align-items: center;
@@ -88,7 +100,7 @@
 }
 .productpage::after {
   content: '';
-  background-color: rgba(135, 134, 134, 0.228); /* Adjust the color and opacity as needed */
+  background-color: rgba(108, 108, 108, 0.162); /* Adjust the color and opacity as needed */
   position: absolute;
   inset: 0;
   width: 100%;

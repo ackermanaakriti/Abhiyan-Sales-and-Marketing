@@ -9,9 +9,9 @@ const WhyChooseUsComp = ({name}) => {
    <>
    <div className='mt-[20px] bg-[#ebeced] p-[20px] rounded-[24px]'>
     <span className='text-[40px] text-primarycolor '><BiRocket/></span>
-    <div className='pt-[20px]'>
+    <div className='pt-[20px] '>
       <h3 className='text-primarycolor font-[600] uppercase font-kurale'>Effective</h3>
-      <p className='text-justify py-[10px]'>Welcome to Abhiyan Sales and Marketing, where innovation meets excellence in the realm of sales and marketing solutions. </p>
+      <p className=' font-poppins text-justify py-[10px]'>Welcome to Abhiyan Sales and Marketing, where innovation meets excellence in the realm of sales and marketing solutions. </p>
     </div>
     
    </div>
