@@ -12,10 +12,10 @@ const ProductPageSection = () => {
     const navigate = useNavigate()
     return (
         <>
-            <div className='px-[40px] py-[50px]'>
+            <div className='px-[40px] pt-[25px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
-                        <figure className='h-[380px] flex justify-center'>
+                        <figure className='h-[380px] flex '>
                             <img className='h-full' src={noodelbowl} />
                         </figure>
                     </div>
@@ -32,7 +32,7 @@ const ProductPageSection = () => {
                     </div>
                 </div>
             </div>
-            <div className='px-[40px] py-[25px]'>
+            <div className='px-[40px] pt-[25px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
                     <h2 className='font-kurale text-[50px] text-primarycolor'>
@@ -53,7 +53,7 @@ const ProductPageSection = () => {
                     </div>
                 </div>
             </div>
-            <div className='px-[40px] py-[25px]'>
+            <div className='px-[40px] pt-[25px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
                     <figure className='h-[380px] flex '>
