@@ -20,14 +20,14 @@ const ProductPageSection = () => {
                         </figure>
                     </div>
                     <div>
-                        <h2 className='font-kurale text-[60px] text-primarycolor'>
+                        <h2 className='font-kurale text-[50px] text-primarycolor'>
                             Noodles
                         </h2>
-                        <p className='font-inter text-[22px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
+                        <p className='font-poppins text-[18px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
                             Crafted with the finest ingredients and perfected through generations of culinary expertise,
                             our noodles promise a dining experience that's nothing short of extraordinary.</p>
                         <div onClick={()=>navigate('/individual')} className='pt-[20px]'>
-                            <Button bg='primarycolor' text='View All' txtclr='secondarycolor' />
+                            <Button bgclr='primarycolor' text='View All' txtclr='secondarycolor' />
                         </div>
                     </div>
                 </div>
@@ -35,14 +35,14 @@ const ProductPageSection = () => {
             <div className='px-[40px] py-[25px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
-                    <h2 className='font-kurale text-[60px] text-primarycolor'>
+                    <h2 className='font-kurale text-[50px] text-primarycolor'>
                             Biscuits
                         </h2>
-                        <p className='font-inter text-[22px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
+                        <p className='font-poppins text-[18px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
                             Crafted with the finest ingredients and perfected through generations of culinary expertise,
                             our noodles promise a dining experience that's nothing short of extraordinary.</p>
                         <div className='pt-[20px]'>
-                            <Button bg='primarycolor' text='View All' txtclr='secondarycolor' />
+                            <Button bgclr='primarycolor' text='View All' txtclr='secondarycolor' />
                         </div>
                     </div>
                     <div>
@@ -56,21 +56,21 @@ const ProductPageSection = () => {
             <div className='px-[40px] py-[25px]'>
                 <div className='grid grid-cols-2 items-center'>
                     <div>
-                    <figure className='h-[380px] flex justify-center'>
+                    <figure className='h-[380px] flex '>
                             <img className='h-full' src={snacks} />
                         </figure>
                     
                     </div>
                     <div>
                     
-                    <h2 className='font-kurale text-[60px] text-primarycolor'>
+                    <h2 className='font-kurale text-[50px] text-primarycolor'>
                             Snacks
                         </h2>
-                        <p className='font-inter text-[22px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
+                        <p className='font-poppins text-[18px] text-primarycolor text-justify'>Indulge your taste buds in a symphony of flavors with our delectable noodles!
                             Crafted with the finest ingredients and perfected through generations of culinary expertise,
                             our noodles promise a dining experience that's nothing short of extraordinary.</p>
                         <div className='pt-[20px]'>
-                            <Button bg='primarycolor' text='View All' txtclr='secondarycolor' />
+                            <Button bgclr='primarycolor' text='View All' txtclr='secondarycolor' />
                         </div>
                     </div>
                 </div>

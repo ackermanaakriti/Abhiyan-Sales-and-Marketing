@@ -18,7 +18,7 @@ const Ourproduct = ({image,name}) => {
     <div className='pt-[15px]'>
         <h3 className='text-[20px] text-primarycolor text-center font-poppins'>{name}</h3>
         <div className='pt-[10px] flex justify-center'>
-        <Button bg='primarycolor' txtclr='secondarycolor' textsize='14' text='Read More'/>
+        <Button bgclr='primarycolor' txtclr='secondarycolor' textsize='14' text='Read More'/>
         </div>
         
     </div>

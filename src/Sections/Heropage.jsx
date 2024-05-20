@@ -18,7 +18,7 @@ const Heropage = () => {
               <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-primarycolor'>Market your products
 Anywhere & Anytime</h2>
                <div className='pt-[30px]'>
-               <Button bg='primarycolor' txtclr='secondarycolor' textsize='14' text='Read More'/>              </div>
+               <Button bgclr='primarycolor' txtclr='secondarycolor' textsize='14' text='Read More'/>              </div>
               <p>
 
               </p>

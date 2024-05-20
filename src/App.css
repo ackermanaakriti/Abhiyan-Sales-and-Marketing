@@ -102,7 +102,7 @@
   content: '';
   background-color: rgba(108, 108, 108, 0.162); /* Adjust the color and opacity as needed */
   position: absolute;
-  inset: 0;
+  /* inset: 0; */
   width: 100%;
   z-index: 10;
 
