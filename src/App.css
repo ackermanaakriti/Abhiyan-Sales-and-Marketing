@@ -88,7 +88,7 @@
 }
 .productpage::after {
   content: '';
-  background-color: rgba(70, 69, 69, 0.352); /* Adjust the color and opacity as needed */
+  background-color: rgba(135, 134, 134, 0.228); /* Adjust the color and opacity as needed */
   position: absolute;
   inset: 0;
   width: 100%;

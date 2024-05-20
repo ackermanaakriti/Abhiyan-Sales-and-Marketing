@@ -25,7 +25,7 @@ const AboutusGroup = () => {
            
         <Ourteamlist name='Chhabi Pandey' position='Owner' img={hajurbuwa}/>
         <Ourteamlist name='Apekshya Pandey' position='Owner' img={apekshydd}/>
-        <Ourteamlist name='Avbiyan Pandey' position='Owner' img={abhiyan}/>
+        <Ourteamlist name='Avbhiyan Pandey' position='Owner' img={abhiyan}/>
         
         </div>
 

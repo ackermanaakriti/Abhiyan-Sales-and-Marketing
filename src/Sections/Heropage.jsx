@@ -14,7 +14,7 @@ const Heropage = () => {
         <div className='grid grid-cols-2 '>
           <div className='px-[40px]   '>
           <div className='pt-[100px]'>
-              <p className='font-poppins text-[20px]  text-primarycolor'>Abhiyan Sales and Marketing</p>
+              <p className='font-poppins text-[20px]  text-primarycolor'>Avbhiyan Sales and Marketing</p>
               <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-primarycolor'>Market your products
 Anywhere & Anytime</h2>
                <div className='pt-[30px]'>
