@@ -1,14 +1,11 @@
 import React from 'react'
 
 
-import Button from '../../Components/Button'
-import mainimg from '../../Global/images/bg66.png'
-import grp from '../../Global/images/nepaligrp.jpg'
-import AboutusGroup from './AboutusGroup'
-import AboutSect from '../../Sections/AboutSect'
 
 
-const AboutusTopComp = () => {
+
+
+const ContactPage = () => {
   return (
     <>
     <div>
@@ -26,7 +23,7 @@ const AboutusTopComp = () => {
             </figure> */}
             <div className='pt-[100px] absolute top-[40%] right-[100px]'>
               <p className='font-poppins text-[20px]  text-secondarycolor'>Abhiyan Sales and Marketing</p>
-              <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-secondarycolor'>About Us</h2>
+              <h2 className='text-[60px] font-kurale pt-[20px] font-[600] text-secondarycolor'>Contact Us</h2>
                
           
             
@@ -37,12 +34,11 @@ const AboutusTopComp = () => {
             </div>
          </div>
         </div>
-        <AboutSect/>
-     <AboutusGroup/>
+   
   
         </div>
     </>
   )
 }
 
-export default AboutusTopComp
+export default ContactPage

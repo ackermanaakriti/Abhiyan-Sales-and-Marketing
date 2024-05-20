@@ -1,6 +1,6 @@
 import React from 'react'
 import Ourteamlist from './Ourteamlist'
-import hajurbuwa from '../../Global/images/hajurbuwa.jpg'
+import hajurbuwa from '../../Global/images/chhabipandey.jpeg'
 import junupandey from '../../Global/images/sailimaiju.jpg'
 
 import abhiyan from '../../Global/images/abhiyan.jpg'

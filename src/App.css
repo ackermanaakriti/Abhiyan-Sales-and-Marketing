@@ -110,7 +110,7 @@
 
 .aboutus
 {
-  background-image: url('../src/Global/images/nepaligrp.jpg');
+  background-image: url('../src/Global/images/family.jpg');
   z-index: 0;
   /* inset: 0; */
   height: 100%;
@@ -118,6 +118,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+ 
   .left--section
   {
     background-image: url('../src/Global/images/bg33.png');

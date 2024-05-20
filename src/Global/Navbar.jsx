@@ -14,7 +14,7 @@ const Navbar = () => {
                 <li className='text-primarycolor text-[15px] font-poppins'> <NavLink to='/'>Home</NavLink></li>
                 <li className='text-primarycolor text-[15px] font-poppins'> <NavLink to='/products'>Products</NavLink></li>
                 <li className='text-primarycolor text-[15px] font-poppins'> <NavLink to='/about-us'>About Us</NavLink></li>
-                <li className='text-primarycolor text-[15px] font-poppins'> <NavLink to='/'>Contact Us</NavLink></li>
+                <li className='text-primarycolor text-[15px] font-poppins'> <NavLink to='/contact-us'>Contact Us</NavLink></li>
             
             </ul>
         </div>
