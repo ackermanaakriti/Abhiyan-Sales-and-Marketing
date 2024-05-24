@@ -16,8 +16,10 @@
   inset: 0;
   height: 100%;
   width: 100%;
-  background-size: contain;
-  background-repeat: no-repeat;
+  background: rgb(241,241,241);
+background: linear-gradient(90deg, rgba(241,241,241,1) 0%, rgba(237,11,11,1) 0%, rgba(238,226,221,1) 0%, rgba(229,191,191,1) 30%, rgba(127,7,7,1) 85%);
+  /* background-size: contain;
+  background-repeat: no-repeat; */
   .left--section
   {
     background-image: url('../src/Global/images/bg33.png');
@@ -52,7 +54,9 @@
 }
 .productpage
 {
-  background-image: url('../src/Global/images/product.jpg');
+  /* background-image: url('../src/Global/images/product.jpg'); */
+    background: rgb(241,241,241);
+background: linear-gradient(90deg, rgba(241,241,241,1) 0%, rgba(237,11,11,1) 0%, rgba(238,226,221,1) 0%, rgba(229,191,191,1) 30%, rgba(127,7,7,1) 85%);
   z-index: 0;
   /* inset: 0; */
   height: 100%;
@@ -110,7 +114,8 @@
 
 .aboutus
 {
-  background-image: url('../src/Global/images/family.jpg');
+  background: rgb(241,241,241);
+background: linear-gradient(90deg, rgba(241,241,241,1) 0%, rgba(237,11,11,1) 0%, rgba(238,226,221,1) 0%, rgba(229,191,191,1) 30%, rgba(127,7,7,1) 85%);
   z-index: 0;
   /* inset: 0; */
   height: 100%;

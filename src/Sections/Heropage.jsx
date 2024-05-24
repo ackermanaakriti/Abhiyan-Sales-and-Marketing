@@ -4,7 +4,7 @@ import current from '../Global/images/redcurrent.png'
 import snicker from '../Global/images/Snickers-broken (1).png'
 import bg from '../Global/images/Rectangle 1.png'
 import Button from '../Components/Button'
-import mainimg from '../Global/images/bg66.png'
+import mainimg from '../Global/images/bg66 (1) (1).png'
 
 
 const Heropage = () => {
